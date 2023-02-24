@@ -1,0 +1,19 @@
+## qssi-user 12 SKQ1.211006.001 V13.0.4.0.SKCCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: holi
+- Codename: veux
+- Brand: qti
+- Flavor: qssi-user
+- Release Version: 12
+- Kernel Version: 5.4.147
+- Id: SKQ1.211006.001
+- Incremental: V13.0.4.0.SKCCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: zh-CN
+- Screen Density: 440
+- Fingerprint: qti/veux/veux:12/SKQ1.211006.001/V13.0.4.0.SKCCNXM:user/release-keys
+- OTA version: 
+- Branch: qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCCNXM-release-keys
+- Repo: qti_veux_dump
